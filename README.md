@@ -26,11 +26,11 @@ Prepare the dataset for further analysis.
 
 📂 Project Structure
 
-TitanicDataCleaning/
-│
-├── titanic.csv
-├── titanic_cleaning.py
-└── README.md
+TitanicDataCleaning-FOLDER
+FILES
+-titanic.csv
+-titanic_cleaning.py
+-README.md
 
 🔍 Data Cleaning Techniques
 
