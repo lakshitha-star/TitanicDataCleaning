@@ -27,6 +27,7 @@ Prepare the dataset for further analysis.
 📂 Project Structure
 
 TitanicDataCleaning-FOLDER
+
 FILES
 -titanic.csv
 -titanic_cleaning.py
